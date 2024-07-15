@@ -1,4 +1,5 @@
 //Activity 1: Variable Declaration
+console.log(`--------------TASK 1------------`);
 var number = 10;
 console.log(number);
 
@@ -6,10 +7,12 @@ let string = "Ujjwal";
 console.log(string);
 
 //Activity 2: Constant Declaration
+console.log(`--------------TASK 2------------`);
 const bool = true;
 console.log(bool);
 
 //Activity 3: Data Types
+console.log(`--------------TASK 3------------`);
 let number2 = 10;
 console.log(`The type of number is`, typeof number);
 
@@ -35,12 +38,14 @@ let variable2 = undefined;
 console.log(`The type of array is`, typeof variable2);
 
 //Activity 4: Reassigning Variables
+console.log(`--------------TASK 4------------`);
 let no = 4;
 console.log(`Before reassigning:`, no);
 no = 6;
 console.log(`After reassigning:`, no);
 
 //Activity 5:Understanding const
+console.log(`--------------TASK 5------------`);
 const no2 = 4;
 console.log(`Before reassigning:`, no2);
 //no2=6 error is Type error:assgnment to constant variable

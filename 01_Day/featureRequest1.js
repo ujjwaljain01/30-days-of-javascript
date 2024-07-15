@@ -7,4 +7,4 @@ function FR1(data) {
   const array = [data, typeof data];
   return array;
 }
-console.log(FR1("A"));
+console.log(FR1(`A`));

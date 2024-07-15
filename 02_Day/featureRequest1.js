@@ -1,23 +1,23 @@
 function calculator(num1,num2,operation) {
     switch (operation) {
-        case "+":
+        case `+`:
             return num1+num2
             break;
-        case "-":
+        case `-`:
             return num1-num2
             break;
-        case "*":
+        case `*`:
             return num1*num2
             break;
-        case "/":
+        case `/`:
             return num1/num2
             break;
-        case "%":
+        case `%`:
             return num1%num2
             break;
         default:
-            return "pick an operation"
+            return `pick an operation`
             break;
     }
 }
-console.log(calculator(1,2,"/"));
+console.log(calculator(1,2,`/`));
