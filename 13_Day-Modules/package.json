@@ -1,0 +1,13 @@
+{
+  "name": "30-days",
+  "version": "1.0.0",
+  "description": "This repository has all the solutions to the challenges that are in 30 days of javascipt challenge.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
